@@ -1,0 +1,25 @@
+{
+  "name": "node_js_project",
+  "version": "1.0.0",
+  "description": "Initialsetup",
+  "main": "index.js",
+  "scripts": {
+    "test": "chatapp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumitmendirattta/NodeJS.git"
+  },
+  "author": "Sumit M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumitmendirattta/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Sumitmendirattta/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2"
+  }
+}
